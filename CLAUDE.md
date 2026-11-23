@@ -25,7 +25,7 @@ Responsable funcional: Jairo Martín Miguel (GitHub: Pegaso183).
 
 ## Seguridad
 - Nunca subas secretos (contraseñas, claves de API, cadenas de conexión). Usa variables de entorno y `.env` (ignorado por git).
-- Nunca subas datos reales de clientes; usa datos de prueba o anonimizados.
+- El repositorio es **público**: nunca subas datos reales de clientes, proveedores, precios ni nada confidencial del negocio; usa datos de prueba o anonimizados.
 
 ## Tecnología
 Pendiente de decidir (ver roadmap). Cuando se decida, documentar aquí: lenguaje, framework,
