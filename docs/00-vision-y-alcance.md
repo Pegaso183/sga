@@ -10,16 +10,23 @@ tomando como referencia las funcionalidades de los WMS mejor valorados del merca
 - Trazabilidad por número de serie; sin control de caducidades.
 - Buena cobertura wifi en el almacén.
 
-## Dentro del alcance (borrador, pendiente de validar)
+## Dentro del alcance del MVP (versión preliminar, ver `01-requisitos-funcionales.md`)
 - Recepción de mercancía
 - Ubicación y gestión de huecos
 - Inventario y trazabilidad por número de serie
 - Preparación de pedidos (*picking*)
 - Expedición
 - Devoluciones
+- Recuentos cíclicos e inventario inicial
+- Embalaje con verificación y albarán con números de serie
+- Maestros, usuarios y perfiles
+- Importación y exportación de datos con ficheros Excel/CSV
 
-## Fuera del alcance
-_Pendiente de definir._
+## Fuera del alcance del MVP
+- Integración automática con el ERP y con transportistas (en el MVP, intercambio por ficheros).
+- Palets y cajas con etiqueta propia, reposición desde reserva y orden de salida automático.
+- Indicadores, productividad, optimización de huecos, citas de muelle, *cross-docking*, kits, portal de clientes, voz, automatización e IA.
+- Varios almacenes, valoración del stock y facturación.
 
 ## Pendiente de información
 - Integraciones con otros sistemas (ERP, etc.).
