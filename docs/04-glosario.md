@@ -8,6 +8,8 @@
 | Ubicación | Posición física identificada del almacén donde se guarda mercancía. |
 | *Picking* | Preparación de pedidos: extracción de mercancía de sus ubicaciones. |
 | Expedición | Salida de mercancía preparada hacia el cliente. |
+| MVP | Producto mínimo viable (*Minimum Viable Product*): primera versión con lo imprescindible para trabajar. |
+| ERP | Sistema de gestión de la empresa (compras, ventas, facturación…). |
 | ADR | Registro de una decisión de arquitectura o funcional (*Architecture Decision Record*). |
 | Unidad | Cada pieza física identificada por su número de serie. Un pack que se maneja entero es una sola unidad. |
 | Zona | Área del almacén (recepción, picking, reserva, expedición…) que agrupa ubicaciones. |
