@@ -1,7 +1,7 @@
 # 0002 · Trazabilidad por unidad serializada
 
 - **Fecha:** 2026-11-23
-- **Estado:** Propuesta
+- **Estado:** Aceptada (provisional, versión preliminar de pruebas)
 
 ## Contexto
 Todos los artículos llevan número de serie, este se registra **al recibir** la mercancía y es **único en todo el almacén**.

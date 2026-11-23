@@ -1,7 +1,7 @@
 # 0003 · Histórico de movimientos inmutable
 
 - **Fecha:** 2026-11-23
-- **Estado:** Propuesta
+- **Estado:** Aceptada (provisional, versión preliminar de pruebas)
 
 ## Contexto
 Hay que saber quién hizo cada operación, cuándo y sobre qué unidad. Esto sirve para resolver incidencias, analizar

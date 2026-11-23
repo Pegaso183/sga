@@ -15,10 +15,10 @@ _Última actualización: 2026-11-23_
 ## Hecho
 - 2026-11-23 · Repositorio `Pegaso183/sga` creado y estructura inicial (ADR 0001).
 - 2026-11-23 · Repositorio público, `main` protegida, etiquetas e Issues iniciales (#1–#6).
-- 2026-11-23 · Propuesta de modelo de datos v0.1 (`docs/02-modelo-de-datos.md`) y ADR 0002 y 0003 (#2).
+- 2026-11-23 · Modelo de datos v0.1, versión preliminar de pruebas, (`docs/02-modelo-de-datos.md`) y ADR 0002 y 0003 (#2).
 
 ## Siguiente
-- Revisar y validar el modelo de datos (#2): confirmar los supuestos S1–S6.
+- Revisar el modelo de datos (#2) y fusionar el PR #8. Los supuestos S1–S6 quedan como provisionales.
 - Requisitos funcionales del MVP (#1), apoyándose en el modelo.
 
 ## Pendiente de información

@@ -1,6 +1,9 @@
 # 02 · Modelo de datos
 
-_Versión 0.1 · 2026-11-23 · Estado: **propuesta, pendiente de validar** por el responsable funcional (Issue #2)._
+_Versión 0.1 · 2026-11-23 · Estado: **versión preliminar de pruebas** (Issue #2)._
+
+> Esta versión sirve de base para avanzar. Todos los supuestos y decisiones pueden revisarse más adelante,
+> a medida que se conozca la información pendiente o se pruebe con datos reales.
 
 Este documento describe el **modelo lógico**: qué información guarda el SGA y cómo se relaciona.
 Los nombres de entidades y campos están en español y en `snake_case` para facilitar la lectura.
@@ -371,7 +374,7 @@ Al cerrar el recuento, las diferencias aprobadas generan movimientos de `traslad
   `en_almacen` en la zona de devoluciones.
 - **Bajas y ajustes** siempre con usuario, fecha y motivo.
 
-## 6. Supuestos (a confirmar)
+## 6. Supuestos (provisionales, modificables)
 
 | # | Supuesto | Si no fuera así |
 |---|---|---|
