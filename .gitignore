@@ -1,0 +1,30 @@
+# --- Secretos y configuración local (NUNCA subir) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editores ---
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# --- Datos y copias locales ---
+*.bak
+*.dump
+backups/
+datos-reales/
+
+# --- Registros y temporales ---
+*.log
+tmp/
+
+# (Se añadirán reglas específicas cuando se elija el lenguaje)
