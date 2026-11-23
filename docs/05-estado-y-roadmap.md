@@ -14,10 +14,10 @@ _Última actualización: 2026-11-23_
 
 ## Hecho
 - 2026-11-23 · Repositorio `Pegaso183/sga` creado y estructura inicial (ADR 0001).
+- 2026-11-23 · Repositorio público, `main` protegida, etiquetas e Issues iniciales (#1–#6).
 
 ## Siguiente
-- Reglas del repositorio (protección de `main`, etiquetas de Issues).
-- Modelo de datos.
+- Modelo de datos (#2).
 
 ## Pendiente de información
 - Integraciones (ERP u otros sistemas).
